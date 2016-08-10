@@ -1,0 +1,8 @@
+{
+    "name": "kutybait/magento-gd-preserve-exif",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "lsolesen/pel": "~0.9"
+    }
+}

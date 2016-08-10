@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <KutybaIt_GdPreserveExif>
+            <version>0.1.0</version>
+        </KutybaIt_GdPreserveExif>
+    </modules>
+    <global>
+        <models>
+            <kutybait_gdpreserveexif>
+                <class>KutybaIt_GdPreserveExif_Model</class>
+            </kutybait_gdpreserveexif>
+        </models>
+    </global>
+</config>
