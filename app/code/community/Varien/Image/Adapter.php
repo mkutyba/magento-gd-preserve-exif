@@ -40,7 +40,7 @@ class Varien_Image_Adapter
                 break;
 
             case self::ADAPTER_GD2:
-                return new Kutybait_GdPreserveExif_Model_Adapter_Gd2();
+                return new KutybaIt_GdPreserveExif_Model_Adapter_Gd2();
                 break;
 
             case self::ADAPTER_IM:
