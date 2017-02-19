@@ -2,7 +2,7 @@
 Preserve EXIF data when resizing images in Magento using standard Gd2 library.
 
 ## Installation
-Download files and extract to magento directory https://github.com/mkutyba/magento-sales-report-include-pending/archive/master.zip
+Download files and extract to magento directory https://github.com/mkutyba/magento-gd-preserve-exif/archive/master.zip
 
 or
 
