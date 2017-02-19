@@ -1,6 +1,15 @@
 {
     "name": "kutybait/magento-gd-preserve-exif",
     "type": "magento-module",
+    "license":"OSL-3.0",
+    "homepage":"https://github.com/mkutyba/magento-gd-preserve-exif",
+    "description":"Preserve EXIF data when resizing images in Magento using standard Gd2 library.",
+    "authors":[
+        {
+            "name":"Mateusz Kutyba",
+            "email":"mateusz@kutyba.it"
+        }
+    ],
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
         "lsolesen/pel": "~0.9"
