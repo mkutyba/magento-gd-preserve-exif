@@ -6,6 +6,10 @@ class KutybaIt_GdPreserveExif_Model_Adapter_Gd2 extends Varien_Image_Adapter_Gd2
 {
     public function save($destination = null, $newName = null)
     {
+        if ($this->_fileType == IMAGETYPE_JPEG) {
+            imageinterlace($this->_imageHandler, 1);
+        }
+
         parent::save($destination, $newName);
 
         if (isset($destination) && isset($newName)) {

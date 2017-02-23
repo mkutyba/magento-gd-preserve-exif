@@ -2,7 +2,7 @@
 <config>
     <modules>
         <KutybaIt_GdPreserveExif>
-            <version>0.1.0</version>
+            <version>0.1.1</version>
         </KutybaIt_GdPreserveExif>
     </modules>
     <global>
